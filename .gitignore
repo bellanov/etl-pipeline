@@ -225,10 +225,5 @@ pyrightconfig.json
 coverage/
 
 # Examples
-hello_world.csv
-hello_world.json
-quickstart.csv
-quickstart.json
-output.csv
-output.json
-output_*.csv
+/examples/output
+
